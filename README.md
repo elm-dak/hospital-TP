@@ -1,7 +1,7 @@
 # Hibernate Spring Data: One To Many, One To One
 
 ## Consultation
-![Consultation.png](images%2Consultation.png)
+![Consultation.png](images/Consultation.png)
 
 ## GenereUIDRDV
 ![GenereUIDRDV.png](images/GenereUIDRDV.png)
