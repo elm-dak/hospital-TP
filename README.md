@@ -1,25 +1,25 @@
 # Hibernate Spring Data: One To Many, One To One
 
 ## Consultation
-![Consultation](images/Consultation.png)
+![Consultation.png](images%2Consultation.png)
 
 ## GenereUIDRDV
-![GenereUIDRDV](images/GenereUIDRDV.png)
+![GenereUIDRDV.png](images/GenereUIDRDV.png)
 
 ## Medecin
-![Medecin](images/Medecin.png)
+![Medecin.png](images/Medecin.png)
 
 ## Patient
-![Patient](images/Patient.png)
+![Patient.png](images/Patient.png)
 
 ## rendezvous-changestatustostring
-![rendezvous-changestatustostring](images/rendezvous-changestatustostring.png)
+![rendezvous-changestatustostring.png](images/rendezvous-changestatustostring.png)
 
 ## Rendezvous
-![Rendezvous](images/Rendezvous.png)
+![Rendezvous.png](images/Rendezvous.png)
 
 ## Web
-![Web](images/web.png)
+![web.png](images/web.png)
 
 
 
